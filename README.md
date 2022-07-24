@@ -1,8 +1,8 @@
 <h1 align="center" id="#airbnb-clone">
-  <img src="https://github.com/Lal-Jr/AirBNB-Clone/blob/67e3ec5e7e33817749b0e3c14c50e661bf160b9a/public/Banner.png" alt="Banner" />
+  <img src="https://github.com/Lal-Jr/Spotify-UI-Clone/blob/2d95b663a021c12d614edd6b8d4f78d4cf7f159e/public/Banner.png" alt="Banner" />
   <br />
   <br />
-  AirBNB-Clone
+  Spotify-UI-Clone
   <br />
   
   [![Lal-Jr - AirBNB-Clone](https://img.shields.io/static/v1?label=Lal-Jr&message=AirBNB-Clone&color=blue&logo=github)](https://github.com/Lal-Jr/AirBNB-Clone "Go to GitHub repo")
