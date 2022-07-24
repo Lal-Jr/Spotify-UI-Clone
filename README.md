@@ -1,19 +1,19 @@
-<h1 align="center" id="#airbnb-clone">
+<h1 align="center" id="#spotify-ui-clone">
   <img src="https://github.com/Lal-Jr/Spotify-UI-Clone/blob/2d95b663a021c12d614edd6b8d4f78d4cf7f159e/public/Banner.png" alt="Banner" />
   <br />
   <br />
   Spotify-UI-Clone
   <br />
   
-  [![Lal-Jr - AirBNB-Clone](https://img.shields.io/static/v1?label=Lal-Jr&message=AirBNB-Clone&color=blue&logo=github)](https://github.com/Lal-Jr/AirBNB-Clone "Go to GitHub repo")
-[![stars - AirBNB-Clone](https://img.shields.io/github/stars/Lal-Jr/AirBNB-Clone?style=social)](https://github.com/Lal-Jr/AirBNB-Clone)
-[![forks - AirBNB-Clone](https://img.shields.io/github/forks/Lal-Jr/AirBNB-Clone?style=social)](https://github.com/Lal-Jr/AirBNB-Clone)
+  [![Lal-Jr - Spotify-UI-Clone](https://img.shields.io/static/v1?label=Lal-Jr&message=Spotify-UI-Clone&color=blue&logo=github)](https://github.com/Lal-Jr/Spotify-UI-Clone "Go to GitHub repo")
+[![stars - Spotify-UI-Clone](https://img.shields.io/github/stars/Lal-Jr/Spotify-UI-Clone?style=social)](https://github.com/Lal-Jr/Spotify-UI-Clone)
+[![forks - Spotify-UI-Clone](https://img.shields.io/github/forks/Lal-Jr/Spotify-UI-Clone?style=social)](https://github.com/Lal-Jr/Spotify-UI-Clone)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-![GitHub last commit](https://img.shields.io/github/last-commit/Lal-Jr/AirBNB-Clone?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Lal-Jr/Spotify-UI-Clone?style=social)
   
 </h1>
 
-Frontend clone of the official AirBNB website styled using TailwindCSS incorporating different components like Calender Search and Mapbox
+UI Clone of Sptify website with all features like search and realtime playback.
 
 # Preview
 
@@ -35,10 +35,10 @@ To use this project, follow the commands below:
 
 ```bash
 # Clone this repository
-git clone https://github.com/Lal-Jr/AirBNB-Clone.git
+git clone https://github.com/Lal-Jr/Spotify-UI-Clone.git
 
 # Go into the repository
-cd AirBNB-Clone
+cd Spotify-UI-Clone
 
 # Install dependencies
 npm install 
@@ -55,7 +55,7 @@ npm run dev
 
 [The MIT License](https://opensource.org/licenses/MIT)
 
-[(Back to top)](#airbnb-clone)
+[(Back to top)](#spotify-ui-clone)
 
 Leave a Star⭐ in GitHub, Fork🍴 if you wanna do the same and Share📤 this repository if you found this helpful.
 
