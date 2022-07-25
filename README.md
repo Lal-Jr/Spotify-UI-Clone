@@ -13,7 +13,7 @@
   
 </h1>
 
-UI Clone of Sptify website with all features like search and realtime playback.
+UI Clone of Spotify website with all features like search and realtime playback.
 
 # Preview
 
