@@ -8,12 +8,12 @@
   [![Lal-Jr - Spotify-UI-Clone](https://img.shields.io/static/v1?label=Lal-Jr&message=Spotify-UI-Clone&color=blue&logo=github)](https://github.com/Lal-Jr/Spotify-UI-Clone "Go to GitHub repo")
 [![stars - Spotify-UI-Clone](https://img.shields.io/github/stars/Lal-Jr/Spotify-UI-Clone?style=social)](https://github.com/Lal-Jr/Spotify-UI-Clone)
 [![forks - Spotify-UI-Clone](https://img.shields.io/github/forks/Lal-Jr/Spotify-UI-Clone?style=social)](https://github.com/Lal-Jr/Spotify-UI-Clone)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![License](https://img.shields.io/badge/License-Apache-blue)](#license)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lal-Jr/Spotify-UI-Clone?style=social)
   
 </h1>
 
-UI Clone of Sptify website with all features like search and realtime playback.
+UI Clone of Spotify website with all features like search and realtime playback.
 
 # Preview
 
